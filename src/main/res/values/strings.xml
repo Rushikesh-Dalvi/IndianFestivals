@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">IndianFestival</string>
+    <string name="about_diwali">Diwali, Deepavali or Dipavali is the Hindu festival of lights,
+        which is celebrated every autumn in the northern hemisphere (spring in southern hemisphere).
+        One of the most popular festivals of Hinduism, Diwali symbolises the spiritual "victory of light
+        over darkness, good over evil and knowledge over ignorance." Light is a metaphor for
+        knowledge and consciousness.During the celebration, temples, homes, shops and office
+        buildings are brightly illuminated.The preparations, and rituals, for the festival
+        typically last five days, with the climax occurring on the third day coinciding with
+        the darkest night of the Hindu lunisolar month Kartika. In the Gregorian calendar,the
+        festival generally falls between mid-October and mid-November.</string>
+    <string name="about_eid">Eid al-Fitr is an important religious holiday celebrated by Muslims
+        worldwide that marks the end of Ramadan, the Islamic holy month of fasting (sawm).
+        This religious Eid (Muslim religious festival) is the first and only day in the month
+        of Shawwal during which Muslims are not permitted to fast. The holiday celebrates the
+        conclusion of the 29 or 30 days of dawn-to-sunset fasting during the entire month of
+        Ramadan. The day of Eid, therefore, falls on the first day of the month of Shawwal.
+        The date for the start of any lunar Hijri month varies based on when the new moon is
+        sighted by local religious authorities, so the exact day of celebration varies by locality.</string>
+    <string name="about_holi">Holi is a Hindu spring festival, originating from India, celebrated
+        predominantly in India but has also spread to Nepal and many other Western countries,
+        also known as the "festival of colours" or the "festival of love".The festival signifies
+        the victory of good over evil, the arrival of spring, end of winter, and for many a
+        festive day to meet others, play and laugh, forget and forgive, and repair broken relationships.
+        It is also celebrated as a thanksgiving for a good harvest.It lasts for a night and a day,
+        starting on the evening of the Purnima (Full Moon day) falling in the Vikram Samvat Hindu
+        Calendar month of Phalgun, which falls somewhere between the end of February
+        and the middle of March in the Gregorian calendar. </string>
+    <string name="about_pola">pola is mainly a farmer festival, wherein farmers respect their bulls and
+        oxe, to thank them for their support in farming. It occurs after the monsoon sowing and field work,
+        typically in late August or early September. On the day of Pola, the bulls are first given a bath,
+        and then decorated with ornaments and shawls. Their horns are painted, and their necks are adorned with
+        garlands of flowers. The bulls do not work that day, and they are part of procession where farmers
+        celebrate the crop season.
+    </string>
+    <string name="about_christmas">Christmas is an annual festival commemorating the birth of Jesus Christ,observed
+    primarily on December 25 as a religious and cultural celebration among billions of
+    people around the world.A feast central to the Christian liturgical year, it is preceded
+    by the season of Advent or the Nativity Fast and initiates the season of Christmastide,
+    which historically in the West lasts twelve days and culminates on Twelfth Night;in some
+    traditions, Christmastide includes an octave.Christmas Day is a public holiday in many
+    of the world's nations,is celebrated religiously by a majority of Christians,as well as
+    culturally by many non-Christians,and forms an integral part of the holiday season centered around it.
+    </string>
+    <string name="about_gudipadwa">Gudhi Padva is a spring-time festival that marks the traditional
+        new year for Marathi Hindus.It is celebrated in and near Maharashtra on the first day of
+        the Chaitra month to mark the beginning of the New year according to the lunisolar Hindu
+        calendar. The word padva comes from the Sanskrit word प्रतिपदा (pratipadā)in Sanskrit, which
+        refers to the first day of a lunar fortnight. The festival is observed with colorful floor
+        decorations called rangoli, a special Gudhi flag (garlanded with flowers, mango and neem leaves,
+        topped with upturned silver or copper vessel), street processions, dancing and festive foods.
+    </string>
+    <string name="about_navratri">Navaratri also spelled Navratri or Navarathri, is a nine nights (and ten days) Hindu
+    festival, celebrated in the Tamil month of Purattasi (17th September to 17th October) every year.
+    It is celebrated differently in various parts of the Indian subcontinent.[3][1] There are two
+    seasonal Navaratri in a year. This festival in this month is called Sharada Navaratri that is
+    the most celebrated for Goddess Durga.In India, Goddess Durga battles and emerges victorious
+        over the buffalo demon Mahishasuran to help restore Dharma.Celebrations include stage
+        decorations, recital of the legend, enacting of the story, and chanting of the scriptures of Hinduism.
+    </string>
+    <string name="about_sankranti">Makara Sankranti, also known as Makaraa Sankrānti or Maghi,
+        is a festival day in the Hindu calendar, in reference to deity Surya (sun). It is observed
+        each year in January.It marks the first day of sun is transit into the Makara (Capricorn),
+        marking the end of the month with the winter solstice and the start of longer days.Makara
+        Sankranti is one of the few ancient Indian festivals that has been observed according
+        to solar cycles, while most festivals are set by the lunar cycle of the lunisolar Hindu calendar.
+    </string>
+</resources>

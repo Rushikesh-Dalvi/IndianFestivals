@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00bcd4"
+    android:orientation="vertical"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="120dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/navratri"
+            android:id="@+id/img"
+            android:scaleType="centerCrop"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="28dp"
+            android:layout_toLeftOf="@+id/img"
+            android:layout_toStartOf="@+id/img"
+            android:text="About: "
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:id="@+id/about"
+            />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_alignBaseline="@+id/about"
+            android:layout_alignBottom="@+id/about"
+            android:layout_toEndOf="@id/about"
+            android:layout_toRightOf="@+id/about">
+            <TextView
+                android:id="@+id/aboutdata"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="@string/about_navratri"
+                />
+        </ScrollView>
+        <ImageView
+            android:id="@+id/img1"
+            android:layout_width="180dp"
+            android:layout_height="120dp"
+
+            android:layout_above="@+id/readmore"
+            android:layout_marginBottom="22dp"
+            android:layout_toEndOf="@+id/about"
+            android:layout_toRightOf="@+id/about"
+            android:scaleType="centerCrop"
+            android:src="@drawable/garba1" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/readmore"
+            android:text="Read more..."
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#ff1744"
+            android:layout_alignParentBottom="true"
+            android:textAlignment="center"
+            />
+    </RelativeLayout>
+</LinearLayout>
